@@ -1,12 +1,1 @@
-[
-  {
-    "nama": "Muhamad Irwan",
-    "nohp": "08123456789",
-    "email": "muhamadirwan@gmail.com"
-  },
-  {
-    "nama": "Bernika Thania",
-    "nohp": "08987654321",
-    "email": "bernikathania@gmail.com"
-  }
-]
+[{"nama":"Muhamad Irwan","nohp":"08123456789","email":"muhamadirwan@gmail.com"},{"nama":"Bernika Thania","nohp":"08987654321","email":"bernikathania@gmail.com"},{"nama":"Ramadhan","email":"muhamadirwan99@upi.edu","nohp":"08912345678"},{"nama":"Muhamad Irwan Ramadhan","email":"muhamadirwan99@upi.edu","nohp":"08123456789"},{"nama":"Dodi","email":"muhamadirwan99@upi.edu","nohp":"08123456789"}]
